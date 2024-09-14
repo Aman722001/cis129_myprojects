@@ -41,4 +41,4 @@ print("Total: $" + format(total, ".2f"))       # Display total cost
 print("*" * 39)                                # Footer line
 
 # Thank-you message to the customer
-print("\nThank you for visiting My Coffee Shop! We hope to see you again soon.")
+print("\nThank you for visiting Aman's Coffee Shop! We hope to see you again soon.")
